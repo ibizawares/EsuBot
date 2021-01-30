@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Donts_gif_File.gif" width="228" height="235"/>
+<img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Donts_gif_File.gif" width="238" height="335"/>
 </p>
 
 # esu-bot
