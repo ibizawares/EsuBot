@@ -17,7 +17,7 @@ TEAM ♥️Ibizawares♥️⃝⃫꙰꙰꙰✫
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/ibizawares/EsuBot
-> cd esubot
+> cd EsuBot
 > npm install
 ```
 ###### Run🏃🏻‍♂️
