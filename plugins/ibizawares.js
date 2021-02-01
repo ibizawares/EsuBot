@@ -12,6 +12,6 @@ let handler = async m => m.reply(`
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['ibizawares']
 handler.tags = ['info']
-handler.command = /^dona(te|si)$/i
+handler.command = /^ibizawares$/i
 
 module.exports = handler
