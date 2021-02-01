@@ -11,7 +11,7 @@ let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['529984907794'] //Put your number  here
+global.owner = ['522741091314'] //Put your number  here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
